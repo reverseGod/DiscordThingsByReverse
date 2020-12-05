@@ -195,3 +195,5 @@ try:
 except Exception as e:
     print(e)
     pass
+
+------------I'm not responsible for who to use for illegal things/You need to have visual studio code to change the webhook----------
